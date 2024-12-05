@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Интерактивный пример</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            font-family: 'Comic Sans MS', cursive, sans-serif; /* Шрифт заголовка */
+            color: #333;
+            text-align: center;
+        }
+        #container {
+            display: flex;
+            flex-wrap: wrap; /* Позволяет коробкам располагаться в несколько рядов */
+            justify-content: space-around;
+            margin: 20px;
+        }
+        .color-box {
+            width: 120px;
+            height: 120px;
+            border: 2px solid #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 20px;
+            text-align: center;
+            margin: 10px; /* Отступ между коробками */
+            font-family: 'Comic Sans MS', cursive, sans-serif; /* Шрифт в коробках */
+            background: #cccccc; /* Текущий цвет фона */
+            transition: background 0.3s; /* Плавный переход цвета */
+        }
+        .controls {
+            text-align: center;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Измените цвет боксов</h1>
+    <div id="container">
+        <div id="box1" class="color-box"></div>
+        <div id="box2" class="color-box"></div>
+        <div id="box3" class="color-box"></div>
+        <div id="box4" class="color-box"></div>
+    </div>
+
+    <div class="controls">
+        <button id="colorButton1">Сделать Box 1 желтым</button>
+        <button id="colorButton2">Сделать Box 2 синим</button>
+        <button id="colorButton3">Сделать Box 3 зеленым</button>
+        <button id="colorButton4">Сделать Box 4 розовым</button>
+        <button id="randomButton">Случайное сообщение</button>
+    </div>
+
+    <div class="controls">
+        <label for="opacitySlider">Изменить прозрачность цвета:</label>
+        <input type="range" id="opacitySlider" min="0" max="1" step="0.1" value="1">
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
