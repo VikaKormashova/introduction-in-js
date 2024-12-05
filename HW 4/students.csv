@@ -1,0 +1,201 @@
+studentNumber,firstName,surname,userName,homeCity,gender,Mode,quiz,project,exam,finalMark
+88423,Yvonne,Chan,05ychan,London,F,Full time Local,60,50,56,55
+44721,Oscar,Chan,02ochan,New York,M,Part time Local,68,68,65,67
+32760,Winifred,Underwood,04wunde,Rio,F,Part time Remote,64,57,55,58
+63652,Colin,Chan,05cchan,Beijing,M,Full time Remote,64,61,62,62
+59783,Xander,Jose,15xjose,Tehran,M,Full time Local,63,61,61,61
+23510,Zara,Xeni,13zxeni,karachi,F,Full time Local,58,49,59,55
+71519,Beau,Depp,09bdepp,Buenos Aires,F,Part time Local,67,58,66,63
+48910,Marvin,Oscar,09mosca,Berlin,M,Part time Remote,72,72,68,70
+56979,Winifred,Depp,18wdepp,Warsaw,F,Full time Local,68,67,60,65
+17982,Ulysses,Tolworth,05utolw,Lagos,M,Part time Remote,59,57,57,57
+67350,Donny,Patel,14dpate,Shanghai,M,Full time Local,45,35,41,40
+32348,Oscar,Young,02oyoun,San Francisco,M,Part time Local,61,62,62,61
+62084,Fiona,Walsh,13fwals,Madrid,F,Part time Remote,70,63,64,65
+59591,Ethal,Young,15eyoun,Oslo,F,Full time Local,70,61,73,68
+60091,Asad,Quest,19aques,New York,M,Part time Remote,50,49,43,47
+52603,Benny,Solomon,08bsolo,Rio,M,Full time Local,50,47,47,48
+92490,Violet,Ainsley,09vains,London,F,Part time Local,68,64,60,64
+35561,Tilly,Reagan,18treag,Buenos Aires,F,Part time Remote,46,41,43,43
+58218,Hal,Solomon,05hsolo,London,M,Part time Remote,51,47,51,49
+96358,liam,Zerdin,06lzerd,karachi,M,Full time Local,50,46,40,45
+42067,Carol,Venn,06cvenn,Rio,F,Full time Remote,69,67,60,65
+99344,India,Goodwin,19igood,Warsaw,F,Full time Local,56,54,50,53
+23024,Rebecca,Oscar,13rosca,Tehran,F,Part time Remote,58,52,60,56
+29351,Marvin,Munster,01mmuns,Rome,M,Full time Local,65,61,61,62
+63600,Leanne,Solomon,01lsolo,Rome,F,Full time Remote,48,47,44,46
+33866,Oscar,Ainsley,16oains,Mexico City,M,Full time Local,57,51,56,54
+35904,Joanna,Underwood,06junde,Mexico City,F,Full time Local,52,46,48,48
+49541,Edward,Khan,03ekhan,Tehran,M,Full time Remote,67,64,60,63
+54578,Olivia,Brown,15obrow,Rome,F,Full time Local,60,65,51,58
+43358,India,English,09iengl,karachi,F,Full time Local,73,66,72,70
+70442,Yves,Firth,02yfirt,London,M,Part time Remote,68,68,68,68
+61591,Delia,Lingard,02dling,Mumbai,F,Part time Local,59,50,49,52
+61357,Kym,Jose,03kjose,Madrid,M,Full time Remote,51,42,50,47
+15874,Carol,Depp,04cdepp,Oslo,F,Part time Remote,55,59,45,53
+12766,Ethal,Lingard,05eling,Shanghai,F,Full time Local,60,60,60,60
+84045,Benny,Walsh,02bwals,San Francisco,M,Full time Remote,64,64,59,62
+41923,Georgina,Underwood,18gunde,Lagos,F,Full time Local,62,53,53,56
+95741,India,Kantt,05ikant,London,F,Part time Remote,60,54,51,55
+12555,Yvonne,Chan,03ychan,Buenos Aires,F,Part time Remote,43,43,36,40
+24526,Kym,Jameson,17kjame,karachi,M,Full time Local,46,38,44,42
+41005,Donny,Solomon,07dsolo,Buenos Aires,M,Part time Remote,69,69,60,66
+37420,Xanthe,Quest,12xques,Oslo,F,Full time Remote,57,53,51,53
+96875,Ethal,Kantt,04ekant,Beijing,F,Full time Local,71,63,66,66
+91928,Ulysses,Kantt,10ukant,karachi,M,Part time Remote,60,51,53,54
+60581,Asad,Underwood,14aunde,London,M,Full time Remote,43,35,45,41
+77120,India,Jameson,00ijame,karachi,F,Full time Local,56,46,58,53
+74047,Tilly,Solomon,15tsolo,London,F,Part time Local,44,43,37,41
+12444,Asad,Depp,04adepp,Beijing,M,Full time Local,66,69,72,69
+32817,Quentin,Chang,13qchan,Rome,M,Full time Remote,51,42,46,46
+73260,Joanna,English,04jengl,Paris,F,Part time Remote,41,32,33,35
+19937,Zara,Iqbal,12ziqba,Tokyo,F,Part time Remote,75,72,66,71
+15748,Carol,Tolworth,00ctolw,Beijing,F,Part time Remote,46,41,36,41
+57477,Oscar,Chan,14ochan,Oslo,M,Full time Local,62,58,52,57
+42347,Marvin,Lingard,10mling,Rio,M,Full time Remote,44,41,37,40
+96329,Marvin,Holmes,18mholm,New York,M,Full time Local,41,33,31,35
+79435,Marvin,Nicoles,04mnico,karachi,M,Part time Local,42,37,44,41
+45373,Michaela,Jose,08mjose,San Francisco,F,Full time Remote,63,62,59,61
+96912,Michaela,Khan,14mkhan,Rome,F,Full time Local,51,46,44,47
+71534,Edward,Venn,10evenn,Shanghai,M,Part time Local,41,31,34,35
+43801,Donny,English,15dengl,London,M,Part time Remote,45,41,39,41
+34852,Yves,Chang,12ychan,Shanghai,M,Part time Local,63,54,54,57
+54203,Georgina,Kantt,07gkant,Mexico City,F,Full time Remote,66,59,57,60
+98834,Greg,Venn,14gvenn,Paris,M,Part time Remote,50,47,43,46
+85282,Ethal,Chang,17echan,San Francisco,F,Full time Local,54,44,48,48
+77683,Carol,Walsh,10cwals,Lagos,F,Part time Remote,42,34,43,39
+97067,Richard,Walsh,13rwals,Paris,M,Full time Local,55,46,54,51
+70651,Ethal,Patel,00epate,Tokyo,F,Full time Remote,57,62,56,58
+10575,Kelly,Brown,17kbrow,Rio,F,Full time Local,63,66,68,65
+90084,Leanne,Patel,16lpate,Warsaw,F,Part time Remote,57,57,56,56
+30328,Ishmail,Quest,13iques,Tokyo,M,Full time Remote,46,38,45,43
+57705,Colin,Chang,07cchan,London,M,Full time Local,51,50,49,50
+74704,Fiona,Oscar,07fosca,Rio,F,Full time Local,49,51,52,50
+75480,Beau,Reagan,14breag,London,F,Part time Local,64,64,58,62
+10159,Beau,Xeni,05bxeni,Tokyo,F,Full time Remote,50,41,49,46
+88811,Yvonne,Venn,14yvenn,Paris,F,Full time Local,50,43,42,45
+95555,liam,Walsh,05lwals,London,M,Part time Remote,61,55,58,58
+47954,William,Walsh,18wwals,Tokyo,M,Full time Remote,40,30,35,35
+34025,Olivia,Quest,10oques,Mumbai,F,Full time Remote,36,32,38,35
+51366,Marvin,Walsh,02mwals,Mumbai,M,Part time Remote,62,53,60,58
+26456,Tilly,Iqbal,15tiqba,Berlin,F,Full time Remote,50,41,51,47
+93329,Colin,Kantt,13ckant,London,M,Full time Local,53,54,54,53
+47060,Marvin,Patel,15mpate,Rio,M,Full time Local,46,42,46,44
+90752,Jamie,Ainsley,08jains,Paris,M,Full time Remote,65,65,57,62
+36148,Donny,Ainsley,06dains,Lagos,M,Full time Local,57,57,63,59
+11725,Jamie,Brown,09jbrow,Paris,M,Part time Remote,63,62,55,60
+71589,Queenie,Tolworth,07qtolw,Paris,F,Full time Remote,82,73,81,78
+82221,Thomas,Oscar,06tosca,San Francisco,M,Part time Remote,57,53,48,52
+89559,Yves,Lingard,06yling,Warsaw,M,Part time Local,61,55,62,59
+25695,Tilly,Brown,11tbrow,San Francisco,F,Full time Remote,42,40,36,39
+89657,Yvonne,Jose,15yjose,Rio,F,Part time Local,47,38,50,45
+17457,Carol,Patel,14cpate,Oslo,F,Full time Remote,47,40,37,41
+85265,Carol,Chang,04cchan,Beijing,F,Part time Local,59,51,56,55
+61997,Queenie,Jameson,17qjame,Beijing,F,Full time Local,52,46,53,50
+29779,Carol,Jameson,06cjame,Lagos,F,Full time Local,57,60,58,58
+59940,Ursula,Venn,01uvenn,Berlin,F,Full time Remote,68,71,61,66
+91996,Thomas,English,06tengl,Shanghai,M,Part time Remote,62,54,63,59
+54916,Xander,Xeni,18xxeni,Mumbai,M,Full time Remote,58,54,54,55
+93502,Richard,Quest,02rques,Tehran,M,Full time Local,42,32,32,35
+65418,Queenie,Brown,07qbrow,Tokyo,F,Part time Local,39,31,29,33
+81997,Thomas,Kantt,16tkant,Tokyo,M,Full time Local,59,51,56,55
+51916,Ulysses,Firth,07ufirt,Tehran,M,Part time Local,43,35,47,41
+29457,Yves,Walsh,01ywals,Shanghai,M,Part time Remote,36,28,29,31
+88449,Delia,Walsh,04dwals,Rio,F,Full time Remote,54,54,46,51
+22786,William,Oscar,08wosca,Buenos Aires,M,Full time Local,33,25,25,27
+33785,Ethal,Oscar,02eosca,Lagos,F,Full time Local,55,49,45,49
+44061,India,Oscar,06iosca,Beijing,F,Part time Local,53,44,52,49
+30162,Asad,Reagan,15areag,Rio,M,Part time Remote,79,72,77,76
+76189,Queenie,Firth,05qfirt,Rio,F,Full time Local,33,28,23,28
+37341,Zara,Lingard,10zling,Rome,F,Part time Remote,50,41,47,46
+87793,Ulysses,Ainsley,03uains,Beijing,M,Full time Local,62,57,61,60
+76066,Tilly,Munster,16tmuns,Mexico City,F,Part time Local,62,62,58,60
+44815,Yves,Xeni,09yxeni,Mexico City,M,Part time Remote,57,47,54,52
+45998,Fiona,Chan,19fchan,Mumbai,F,Full time Local,74,66,69,69
+16025,Simon,Patel,15spate,London,M,Part time Remote,44,35,48,42
+74553,Beau,Venn,17bvenn,Tokyo,F,Full time Local,69,69,61,66
+46979,Thomas,Reagan,12treag,karachi,M,Part time Local,45,49,42,45
+69000,India,Patel,09ipate,Mexico City,F,Part time Remote,64,61,59,61
+52320,Vinny,Jameson,11vjame,Mumbai,M,Part time Remote,32,25,23,26
+53402,Marvin,Chan,06mchan,Tokyo,M,Full time Local,40,32,30,34
+36329,Xander,Walsh,07xwals,Warsaw,M,Full time Remote,63,54,61,59
+48493,Zara,Young,11zyoun,Lagos,F,Full time Local,39,30,39,36
+70048,Ethal,Goodwin,13egood,London,F,Part time Remote,61,55,55,57
+40982,Tilly,Depp,00tdepp,Rome,F,Full time Local,51,41,49,47
+55865,Olivia,Kantt,09okant,Oslo,F,Full time Remote,44,36,35,38
+60265,Niamh,Firth,17nfirt,Rio,F,Full time Local,50,43,44,45
+64572,Jamie,Young,09jyoun,Lagos,M,Full time Local,47,50,45,47
+54473,Vinny,Jose,12vjose,Mexico City,M,Full time Remote,51,43,44,46
+90884,Xanthe,Depp,01xdepp,Beijing,F,Full time Local,62,53,61,58
+43017,Tilly,Chang,17tchan,Shanghai,F,Full time Local,56,48,58,54
+24589,Nicholas,Iqbal,18niqba,Rome,M,Part time Remote,35,33,28,32
+85265,Colin,Iqbal,19ciqba,Rio,M,Part time Local,68,61,58,62
+79814,Marvin,Solomon,03msolo,Paris,M,Full time Remote,60,64,52,58
+48179,Edward,English,12eengl,Paris,M,Part time Remote,53,50,44,49
+45836,Kelly,Chan,07kchan,Mumbai,F,Full time Local,47,39,44,43
+22727,Nicholas,Chan,09nchan,San Francisco,M,Full time Remote,62,59,54,58
+32012,Michaela,Jose,15mjose,Oslo,F,Full time Local,45,44,50,46
+95091,Yves,Quest,02yques,Berlin,M,Part time Remote,62,53,58,57
+81568,Ulysses,Brown,17ubrow,Oslo,M,Part time Remote,60,53,51,54
+97067,Niamh,Goodwin,13ngood,Mumbai,F,Full time Local,64,55,67,62
+88643,Xanthe,Reagan,00xreag,Lagos,F,Part time Remote,58,50,66,58
+31326,Joanna,Quest,01jques,Oslo,F,Full time Remote,43,37,34,38
+54647,Greg,Goodwin,06ggood,Madrid,M,Full time Local,67,74,67,69
+93174,Ishmail,Reagan,10ireag,Madrid,M,Part time Remote,53,56,44,51
+49828,Simon,Venn,01svenn,Shanghai,M,Full time Remote,60,56,62,59
+40883,Asad,Khan,07akhan,Rome,M,Full time Local,44,46,34,41
+46829,Niamh,Kantt,13nkant,San Francisco,F,Part time Local,66,64,69,66
+53100,Zara,Ainsley,13zains,Paris,F,Full time Local,40,47,34,40
+11588,Winifred,Ainsley,06wains,Buenos Aires,F,Full time Remote,65,58,66,63
+74666,Kym,Jose,01kjose,Mumbai,M,Part time Remote,51,59,43,51
+65280,Joanna,Underwood,05junde,Mexico City,F,Part time Remote,66,70,71,69
+46944,Yvonne,Chan,01ychan,Mexico City,F,Part time Remote,52,53,47,50
+97050,Queenie,Brown,08qbrow,Beijing,F,Full time Local,46,40,42,42
+84221,Ethal,Brown,11ebrow,Rome,F,Full time Remote,52,43,54,49
+93223,Joanna,Brown,15jbrow,karachi,F,Full time Local,73,65,65,67
+12177,Rebecca,Firth,02rfirt,Mexico City,F,Part time Local,58,51,51,53
+16197,Kym,Xeni,09kxeni,Beijing,M,Full time Remote,51,42,48,47
+47835,Niamh,Tolworth,17ntolw,San Francisco,F,Full time Local,54,51,50,51
+32411,Winifred,Jose,11wjose,Beijing,F,Part time Local,40,38,36,38
+15282,Winifred,Quest,19wques,karachi,F,Part time Remote,71,72,62,68
+58053,Joanna,Depp,03jdepp,Beijing,F,Part time Local,50,53,43,48
+35639,Ishmail,Brown,18ibrow,Warsaw,M,Full time Remote,47,48,42,45
+52343,Quentin,Xeni,08qxeni,karachi,M,Part time Remote,60,59,55,58
+84520,Simon,Patel,06spate,London,M,Full time Local,67,60,62,63
+38114,Hal,Kantt,00hkant,karachi,M,Part time Remote,59,55,50,54
+24167,Carol,Patel,05cpate,Shanghai,F,Full time Local,58,54,50,54
+47910,Violet,Xeni,18vxeni,New York,F,Full time Remote,60,53,52,55
+24202,Xanthe,Munster,15xmuns,Buenos Aires,F,Full time Local,64,55,57,58
+77845,Freddy,Xeni,04fxeni,San Francisco,M,Part time Remote,72,63,66,67
+36811,William,Quest,01wques,Rome,M,Full time Remote,66,61,58,61
+72703,Winifred,Reagan,00wreag,Paris,F,Full time Local,55,60,61,58
+88285,Niamh,Munster,14nmuns,Shanghai,F,Full time Local,73,80,74,75
+66468,Asad,Underwood,14aunde,Tokyo,M,Part time Local,58,48,53,53
+62118,Tilly,Venn,10tvenn,Buenos Aires,F,Full time Remote,43,38,42,41
+79270,Ethal,Tolworth,00etolw,karachi,F,Full time Local,36,37,35,36
+20276,Ethal,Firth,01efirt,karachi,F,Part time Remote,52,50,45,49
+33091,Ethal,Depp,06edepp,Tehran,F,Full time Remote,63,66,55,61
+33265,Simon,Goodwin,16sgood,Oslo,M,Full time Remote,63,57,60,60
+87862,Holly,Firth,14hfirt,Oslo,F,Part time Remote,37,30,31,32
+75539,Benny,Patel,11bpate,San Francisco,M,Full time Remote,34,25,35,31
+88958,Zach,Tolworth,14ztolw,Oslo,M,Full time Local,60,51,56,55
+89497,Kelly,Reagan,19kreag,Rio,F,Full time Local,68,62,59,63
+72239,Freddy,Chan,00fchan,Lagos,M,Full time Remote,73,70,66,69
+45370,Rebecca,Venn,04rvenn,Mumbai,F,Full time Local,52,51,51,51
+92256,Holly,Walsh,13hwals,New York,F,Part time Remote,71,79,61,70
+29336,Beau,English,07bengl,Mexico City,F,Full time Remote,67,64,71,67
+58441,Zach,English,14zengl,Beijing,M,Part time Remote,53,48,45,48
+53214,Ulysses,Quest,12uques,San Francisco,M,Part time Local,62,59,55,58
+94765,Ethal,Oscar,18eosca,Berlin,F,Full time Remote,55,51,51,52
+84894,Edward,Firth,09efirt,Beijing,M,Part time Local,44,47,34,41
+47587,Queenie,Oscar,04qosca,Rio,F,Full time Remote,49,42,43,44
+34596,Richard,Patel,19rpate,Shanghai,M,Part time Local,48,44,52,48
+60114,Yves,Jose,01yjose,Mexico City,M,Full time Local,68,60,65,64
+69148,Asad,Iqbal,16aiqba,Oslo,M,Full time Local,56,60,49,55
+12615,India,Depp,04idepp,Berlin,F,Full time Remote,41,37,35,37
+17956,Joanna,Tolworth,14jtolw,Beijing,F,Part time Remote,48,43,40,43
+52637,Yvonne,Chang,13ychan,Shanghai,F,Full time Remote,39,33,30,34
+38189,Vinny,Firth,03vfirt,Rio,M,Full time Local,68,62,66,65
+25388,Ishmail,Lingard,01iling,London,M,Part time Local,45,41,36,40
+35162,Yvonne,Zerdin,09yzerd,Mumbai,F,Full time Local,63,68,68,66
+81156,Greg,Brown,11gbrow,Rome,M,Part time Local,61,58,62,60
